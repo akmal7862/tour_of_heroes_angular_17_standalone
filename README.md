@@ -1,3 +1,6 @@
+
+![Model](https://raw.githubusercontent.com/akmal7862/tour_of_heroes_angular_17_standalone/eea35be43648a69c70bcfb7cda65bc08f2f009b8/Screenshot_1.png)
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.3.
